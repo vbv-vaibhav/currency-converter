@@ -30,7 +30,7 @@ function App() {
       }}
     >
       <div className="w-full">
-        <div className="w-full max-w-md mx-auto border border-gray-60 rounded-lg p-5 backdrop-blur-sm bg-white/30 shadow-md shadow-yellow-400 hover:shadow-lg hover:shadow-yellow-400 duration-300">
+        <div className="w-full max-w-md mx-auto border border-gray-60 rounded-lg p-5 backdrop-blur-sm bg-white/30 shadow-md shadow-yellow-400 hover:shadow-lg hover:shadow-yellow-400 duration-300 hover:scale-105">
           <form
             onSubmit={(e) => {
               e.preventDefault();
